@@ -1,6 +1,0 @@
-c:\users\oerturk\documents\visual studio 2015\Projects\CachedRepository\CachedRepository\bin\Debug\CachedRepository.exe.config
-c:\users\oerturk\documents\visual studio 2015\Projects\CachedRepository\CachedRepository\bin\Debug\CachedRepository.exe
-c:\users\oerturk\documents\visual studio 2015\Projects\CachedRepository\CachedRepository\bin\Debug\CachedRepository.pdb
-c:\users\oerturk\documents\visual studio 2015\Projects\CachedRepository\CachedRepository\obj\Debug\CachedRepository.csprojResolveAssemblyReference.cache
-c:\users\oerturk\documents\visual studio 2015\Projects\CachedRepository\CachedRepository\obj\Debug\CachedRepository.exe
-c:\users\oerturk\documents\visual studio 2015\Projects\CachedRepository\CachedRepository\obj\Debug\CachedRepository.pdb

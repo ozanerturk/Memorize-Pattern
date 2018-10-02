@@ -1,8 +1,0 @@
-c:\users\oerturk\documents\visual studio 2015\Projects\CachedRepository\CachedRepository\bin\Debug\SimpleCacheExample.exe.config
-c:\users\oerturk\documents\visual studio 2015\Projects\CachedRepository\CachedRepository\bin\Debug\SimpleCacheExample.exe
-c:\users\oerturk\documents\visual studio 2015\Projects\CachedRepository\CachedRepository\bin\Debug\SimpleCacheExample.pdb
-c:\users\oerturk\documents\visual studio 2015\Projects\CachedRepository\CachedRepository\obj\Debug\SimpleCacheExample.exe
-c:\users\oerturk\documents\visual studio 2015\Projects\CachedRepository\CachedRepository\obj\Debug\SimpleCacheExample.pdb
-C:\Users\oerturk\Documents\visual studio 2015\Projects\CachedRepository\SimpleCacheExample\bin\Debug\SimpleCacheExample.exe.config
-C:\Users\oerturk\Documents\visual studio 2015\Projects\CachedRepository\SimpleCacheExample\obj\Debug\SimpleCacheExample.exe
-C:\Users\oerturk\Documents\visual studio 2015\Projects\CachedRepository\SimpleCacheExample\obj\Debug\SimpleCacheExample.pdb
