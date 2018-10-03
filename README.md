@@ -1,2 +1,3 @@
-# Simple-Cache
-Simple-Cache
+Memorize pattern
+
+Redis, IQueryable, Linq,
