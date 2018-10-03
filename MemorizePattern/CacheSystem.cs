@@ -16,7 +16,7 @@ namespace SimpleCacheExample
         public static IEnumerable<TSource> Cacheble<TSource>(this IQueryable<TSource> source)
         {
             Redis redis = new Redis();
-            var db = redis.GetDb(1);
+            var db = redis.GetDb(1);//db-1 selected
            
             RedisJsonSerializer serialize = new RedisJsonSerializer();
 

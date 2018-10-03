@@ -13,7 +13,7 @@ namespace SimpleCacheExample
         public Redis()
         {
             _configurationOptions = new ConfigurationOptions();
-            _configurationOptions.EndPoints.Add("localhost");
+            _configurationOptions.EndPoints.Add("localhost",6379);
             _configurationOptions.ConnectRetry = 1;
             _configurationOptions.ConnectTimeout = 500;
 
